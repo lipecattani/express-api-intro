@@ -1,0 +1,29 @@
+{
+  "name": "express-api-intro",
+  "version": "0.1.0",
+  "description": "Este é o projeto utilizado no curso \"Criando sua Primeira API com Express.js\", publicado na Udemy.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lipecattani/express-api-intro.git"
+  },
+  "keywords": [
+    "expressJS",
+    "NodeJS",
+    "JavaScript"
+  ],
+  "author": "Felipe Cattani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lipecattani/express-api-intro/issues"
+  },
+  "homepage": "https://github.com/lipecattani/express-api-intro#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
