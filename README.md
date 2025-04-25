@@ -17,7 +17,7 @@ Uma mini API de tarefas com rotas GET e POST utilizando o Express.js, framework 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/express-api-intro.git
+git clone https://github.com/lipecattani/express-api-intro.git
 cd express-api-intro
 ```
 
